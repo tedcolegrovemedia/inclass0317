@@ -1,29 +1,7 @@
-# Pizza Haven Website
+# Pizza Haven
 
-This project is a simple multi-page static website for a pizza business concept called **Pizza Haven**.
+Pizza Haven is a classroom web project for a fictional pizza brand. The project includes a custom static website with a homepage, about page, and contact page, plus German and Ukrainian language versions for broader accessibility.
 
-## What it includes
+The site uses HTML, CSS, and vanilla JavaScript, including a rotating hero carousel, responsive card layout, and a custom pizza-themed visual style. A WordPress theme version of the project is also included, along with a packaged theme zip for installation and testing.
 
-- Three pages:
-  - Home
-  - About
-  - Contact Us
-- Shared styling and site-wide visual theme
-- Home page hero image carousel:
-  - 3 background slides
-  - Auto-rotates every 3 seconds
-  - Fade transition (no arrows, no controls)
-- Mobile adjustments for full-width card sections
-- Reorganized project structure for cleaner linked assets
-
-## Project structure
-
-- `index.html` - Home page
-- `pages/about.html` - About page
-- `pages/contact.html` - Contact Us page
-- `assets/css/styles.css` - Main stylesheet
-- `assets/js/home.js` - Home page carousel script
-
-## Purpose
-
-This is a classroom/demo-style frontend project showing foundational static web development with HTML, CSS, and vanilla JavaScript.
+The static site was prepared for live deployment to the Moravian Interactive student hosting environment and the repo also contains the source files used to build and publish that version.
